@@ -1,5 +1,5 @@
 # Chatproject
-Android Studio Chat application using Kotlin
+Android Studio Chat application
 
 
 # Description 
